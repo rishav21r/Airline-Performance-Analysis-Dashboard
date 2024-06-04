@@ -21,4 +21,4 @@ The dashboard created for this project provides a comprehensive overview of flig
 
 ![alt text][logo]
 
-[logo]: dashboard/flightsdealydashboard.png "Flights Delay Dashboard"
+[logo]: dashboard/flightsdelaydashboard.png "Flights Delay Dashboard"
