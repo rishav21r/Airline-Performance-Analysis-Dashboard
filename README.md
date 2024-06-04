@@ -9,3 +9,12 @@ the Department of Transport has hired ou and your consultancy team to present ke
 - Create a single dashboard of information for management review.
 - Visually display the KPIs and justify each KPI’s selection and design.
 - Present trends, analysis, and patterns.
+
+## Data
+The data used in this project includes:
+- `airports.csv`: Information about the airports.
+- `airlines.csv`: Information about the airlines.
+- `flights.csv`: Detailed flight data (not included due to size).
+
+## Tableau Dashboard
+The dashboard created for this project provides a comprehensive overview of flight delays, cancellations, and their reasons. Below is a screenshot of the dashboard:
