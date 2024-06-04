@@ -21,4 +21,4 @@ The dashboard created for this project provides a comprehensive overview of flig
 
 ![alt text][logo]
 
-[logo]: plots/cdf.png "Cumulative Distribution Functions"
+[logo]: dashboard/dashboard.png "Flights Delay Dashboard"
