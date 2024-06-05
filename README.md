@@ -18,6 +18,7 @@ The data used in this project includes:
 
 ## Tableau Dashboard
 The dashboard created for this project provides a comprehensive overview of flight delays, cancellations, and their reasons. Below is a screenshot of the dashboard:
+(Tableau public dashboard Viz link [Airlines Analysis Performance Dashboard]([https://github.com/rishav21r/Scraping-IMDB-Review-in-R](https://public.tableau.com/views/AirlineanalysisPerformanceDashboard/FlightsDelay?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link))
 
 ![alt text][logo]
 
