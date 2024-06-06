@@ -18,7 +18,7 @@ The data used in this project includes:
 
 ## Tableau Dashboard
 The dashboard created for this project provides a comprehensive overview of flight delays, cancellations, and their reasons. 
-(Tableau public dashboard Viz link 
+(Tableau public dashboard viz link 
 [Airlines Analysis Performance Dashboard](https://public.tableau.com/views/AirlineanalysisPerformanceDashboard/FlightsDelay?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)).
 Below is a screenshot of the dashboard:
 
